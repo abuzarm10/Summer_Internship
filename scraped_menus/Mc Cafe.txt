@@ -1,0 +1,38 @@
+1. Iced Americano
+2. Caramel Iced Latte
+3. Chocolate Frappé
+4. Chocolate Oreo Frappé
+5. Hazelnut Iced Latte
+6. Lemon Iced Tea
+7. Mango Iced Tea
+8. Mocha Frappé
+9. Mocha Iced Latte
+10. Peach Iced Tea
+11. Raspberry Iced Tea
+12. Vanilla Frappé
+13. Vanilla Oreo Frappé
+14. Espresso
+15. Americano
+16. Babyccino
+17. Cappuccino
+18. Latte
+19. Long Black Coffee
+20. Mochaccino
+21. Hot Chocolate
+22. Tea
+23. Green Tea
+24. Cardamom Tea
+25. Boston Cream
+26. Chocolate Fudge
+27. Caramel Cream
+28. Vanilla Sprinkle
+29. Chocolate Sprinkle
+30. Glazed
+31. Caramel Ring
+32. Double Chocolate Muffin
+33. Blueberry Muffin
+34. Double Chocolate Cookie
+35. Milk Chocolate Cookie
+36. Butter Croissant
+37. Tiramisu Cake
+38. Caramel Frappé
